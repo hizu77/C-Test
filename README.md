@@ -6,6 +6,9 @@
 > Исходный код можно посмотреть тут: [ссылка на git hub](https://github.com/hizu77/C-Test)
 > 
 
+> Файл **exe** можно посмотреть тут: [ссылка](https://drive.google.com/drive/folders/1rlKCKwX2-zsanqiHiy7klI2h-WA8CaTr?usp=drive_link)
+> 
+
 ## **Запуск программы**
 
 1. Вводим точность
@@ -24,7 +27,7 @@
     
     $r = \sqrt{x^2+y^2}$
     
-    $\theta=arctg{\frac{y}{x}}$
+    $\theta=\arctg{\frac{y}{x}}$
     
     При $x = 0$ и $y=0$ : $\theta$ - не определено.
     
@@ -48,4 +51,4 @@
     
     $\theta=\arccos{\frac{z}{r}}$
     
-    $\phi=arctg{\frac{y}{x}}$
+    $\phi=\arctg{\frac{y}{x}}$
