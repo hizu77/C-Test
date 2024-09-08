@@ -27,7 +27,7 @@
     
     $r = \sqrt{x^2+y^2}$
     
-    $\theta=\arctg{\frac{y}{x}}$
+    $\theta=arctg{\frac{y}{x}}$
     
     При $x = 0$ и $y=0$ : $\theta$ - не определено.
     
@@ -51,4 +51,4 @@
     
     $\theta=\arccos{\frac{z}{r}}$
     
-    $\phi=\arctg{\frac{y}{x}}$
+    $\phi=arctg{\frac{y}{x}}$
